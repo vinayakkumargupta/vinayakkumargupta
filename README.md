@@ -20,8 +20,8 @@
   <img src="https://raw.githubusercontent.com/vinayakkumargupta/vinayakkumargupta/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinayakkumargupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vinayak-kumar-gupta-a90a98212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="vinayakkr6202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinayakkumargupta&color=blueviolet&style=flat" alt="Profile views" />
